@@ -1,0 +1,1 @@
+$(document).ready(function(){var a=function(){$("#big-map").fadeToggle()};$("#map-popup").click(a),$("#big-map .close_btn").click(a)});
